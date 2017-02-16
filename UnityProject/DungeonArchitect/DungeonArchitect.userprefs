@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\code\player.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\code\blocMovement.cs">
     <Files>
-      <File FileName="Assets\code\player.cs" Line="27" Column="38" />
+      <File FileName="Assets\code\blocMovement.cs" Line="11" Column="18" />
+      <File FileName="..\..\..\..\Users\JäNö\Documents\clase\Segundo Semestre\Diseño 3d\Tanks Project\TanksBattle\Assets\code\tank.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
