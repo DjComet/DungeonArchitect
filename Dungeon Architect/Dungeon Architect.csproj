@@ -76,11 +76,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Accelerated_movement.cs" />
-    <Compile Include="Assets\Scripts\ApplicationQuit.cs" />
-    <Compile Include="Assets\Scripts\ClickToLoadAsync.cs" />
-    <Compile Include="Assets\Scripts\LoadOnClick.cs" />
-    <Compile Include="Assets\Scripts\blocMovement.cs" />
-    <Compile Include="Assets\Scripts\player.cs" />
+    <Compile Include="Assets\Scripts\BlockMovement.cs" />
+    <Compile Include="Assets\Scripts\Menu\ApplicationQuit.cs" />
+    <Compile Include="Assets\Scripts\Menu\ClickToLoadAsync.cs" />
+    <Compile Include="Assets\Scripts\Menu\LoadOnClick.cs" />
+    <Compile Include="Assets\Scripts\PlayerMovement.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
