@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeon Architect", "Assembly-CSharp.csproj", "{F32E3685-57EF-CBCB-7A8E-25E73E717FBD}"
+=======
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{863590DA-DA2A-6111-9193-3F1ED751DA4F}") = "Dungeon Architect", "Assembly-CSharp.csproj", "{F32E3685-57EF-CBCB-7A8E-25E73E717FBD}"
+>>>>>>> 8e3224ce6489aeae31e2eb82f5eb6ca272ee0ca6
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

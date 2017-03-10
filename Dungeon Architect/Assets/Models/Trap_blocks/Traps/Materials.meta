@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Dungeon Architect/Assets/Models/Trap_blocks/Traps/Materials.meta
 guid: 6df86a355cc41ec42b79a15a5ece6260
 folderAsset: yes
 timeCreated: 1488810516
+=======
+guid: c50903354aa3a1d49b74f19320e69eea
+folderAsset: yes
+timeCreated: 1489159513
+>>>>>>> 8e3224ce6489aeae31e2eb82f5eb6ca272ee0ca6:Dungeon Architect/Assets/Models/Trap_blocks/Traps/Materials.meta
 licenseType: Free
 DefaultImporter:
   userData: 
